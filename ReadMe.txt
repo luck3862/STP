@@ -1,7 +1,9 @@
 시스템 트레이딩 프로그램
 
 개발 환경
-1. Python
+1. Python - ANACONDA
+    https://pypi.org/project/kiwoom-api-handler/
+    
 2. MySql
 
 폴더 구성
